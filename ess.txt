@@ -2,3 +2,7 @@ here is my new bloc-notes with not much information
 One new line I'm adding now to have new info.
 
 double enter and here we are
+
+Adding new loop:
+for(size_t i = 0;;)
+cout << "yo";
