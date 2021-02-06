@@ -3,6 +3,10 @@ One new line I'm adding now to have new info.
 
 double enter and here we are
 
+
 Adding new loop:
 for(size_t i = 0;;)
 cout << "yo";
+
+Here is the end of file
+
